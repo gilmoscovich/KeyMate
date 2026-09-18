@@ -1,7 +1,6 @@
 # KeyMate
 
-מצאתם קיצור של Windows ולא יודעים איך עושים אותו ב־Mac? KeyMate מחפש את הקיצור המתאים במהירות, בעברית או באנגלית.
-
+מצאתם קיצור של Windows ולא יודעים איך עושים אותו במק? KeyMate ימצא אותו בשבילכם.
 ## הורדה והתקנה
 
 1. הורידו את [הגרסה האחרונה](https://github.com/gilmoscovich/KeyMate/releases/latest).

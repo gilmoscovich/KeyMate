@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "copy",
+    "titleHe": "העתקה",
+    "titleEn": "Copy",
+    "macShortcut": "⌘ C",
+    "windowsShortcut": "Ctrl C",
+    "category": "General",
+    "keywords": [
+      "להעתיק העתק העתקת טקסט",
+      "להעתיק",
+      "העתק",
+      "העתקת",
+      "טקסט",
+      "Copy"
+    ],
+    "descriptionHe": "העתקה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Copy. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "paste",
+    "titleHe": "הדבקה",
+    "titleEn": "Paste",
+    "macShortcut": "⌘ V",
+    "windowsShortcut": "Ctrl V",
+    "category": "General",
+    "keywords": [
+      "להדביק הדבק",
+      "להדביק",
+      "הדבק",
+      "Paste"
+    ],
+    "descriptionHe": "הדבקה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Paste. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "cut",
+    "titleHe": "גזירת טקסט",
+    "titleEn": "Cut text",
+    "macShortcut": "⌘ X",
+    "windowsShortcut": "Ctrl X",
+    "category": "General",
+    "keywords": [
+      "לגזור גזור",
+      "לגזור",
+      "גזור",
+      "Cut text"
+    ],
+    "descriptionHe": "גזירת טקסט. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Cut text. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "undo",
+    "titleHe": "ביטול פעולה",
+    "titleEn": "Undo",
+    "macShortcut": "⌘ Z",
+    "windowsShortcut": "Ctrl Z",
+    "category": "General",
+    "keywords": [
+      "לבטל חזרה אחורה",
+      "לבטל",
+      "חזרה",
+      "אחורה",
+      "Undo"
+    ],
+    "descriptionHe": "ביטול פעולה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Undo. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "redo",
+    "titleHe": "ביצוע מחדש",
+    "titleEn": "Redo",
+    "macShortcut": "⌘ ⇧ Z",
+    "windowsShortcut": "Ctrl Y",
+    "category": "General",
+    "keywords": [
+      "שחזור פעולה",
+      "שחזור",
+      "פעולה",
+      "Redo"
+    ],
+    "descriptionHe": "ביצוע מחדש. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Redo. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "select-all",
+    "titleHe": "בחירת הכול",
+    "titleEn": "Select all",
+    "macShortcut": "⌘ A",
+    "windowsShortcut": "Ctrl A",
+    "category": "General",
+    "keywords": [
+      "סימון הכל לבחור הכל",
+      "סימון",
+      "הכל",
+      "לבחור",
+      "הכל",
+      "Select all"
+    ],
+    "descriptionHe": "בחירת הכול. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Select all. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "save",
+    "titleHe": "שמירה",
+    "titleEn": "Save",
+    "macShortcut": "⌘ S",
+    "windowsShortcut": "Ctrl S",
+    "category": "General",
+    "keywords": [
+      "לשמור מסמך",
+      "לשמור",
+      "מסמך",
+      "Save"
+    ],
+    "descriptionHe": "שמירה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Save. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "open",
+    "titleHe": "פתיחת קובץ",
+    "titleEn": "Open file",
+    "macShortcut": "⌘ O",
+    "windowsShortcut": "Ctrl O",
+    "category": "General",
+    "keywords": [
+      "לפתוח קובץ",
+      "לפתוח",
+      "קובץ",
+      "Open file"
+    ],
+    "descriptionHe": "פתיחת קובץ. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Open file. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "print",
+    "titleHe": "הדפסה",
+    "titleEn": "Print",
+    "macShortcut": "⌘ P",
+    "windowsShortcut": "Ctrl P",
+    "category": "General",
+    "keywords": [
+      "להדפיס",
+      "להדפיס",
+      "Print"
+    ],
+    "descriptionHe": "הדפסה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Print. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "find",
+    "titleHe": "חיפוש במסמך",
+    "titleEn": "Find",
+    "macShortcut": "⌘ F",
+    "windowsShortcut": "Ctrl F",
+    "category": "General",
+    "keywords": [
+      "לחפש טקסט search document",
+      "לחפש",
+      "טקסט",
+      "search",
+      "document",
+      "Find"
+    ],
+    "descriptionHe": "חיפוש במסמך. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Find. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "find-next",
+    "titleHe": "התוצאה הבאה",
+    "titleEn": "Find next",
+    "macShortcut": "⌘ G",
+    "windowsShortcut": "F3",
+    "category": "General",
+    "keywords": [
+      "חיפוש הבא",
+      "חיפוש",
+      "הבא",
+      "Find next"
+    ],
+    "descriptionHe": "התוצאה הבאה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Find next. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "find-previous",
+    "titleHe": "התוצאה הקודמת",
+    "titleEn": "Find previous",
+    "macShortcut": "⌘ ⇧ G",
+    "windowsShortcut": "Shift F3",
+    "category": "General",
+    "keywords": [
+      "חיפוש קודם",
+      "חיפוש",
+      "קודם",
+      "Find previous"
+    ],
+    "descriptionHe": "התוצאה הקודמת. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Find previous. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "new-window",
+    "titleHe": "חלון חדש",
+    "titleEn": "New window",
+    "macShortcut": "⌘ N",
+    "windowsShortcut": "Ctrl N",
+    "category": "General",
+    "keywords": [
+      "פתיחת חלון",
+      "פתיחת",
+      "חלון",
+      "New window"
+    ],
+    "descriptionHe": "חלון חדש. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "New window. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "close-window",
+    "titleHe": "סגירת חלון",
+    "titleEn": "Close window",
+    "macShortcut": "⌘ W",
+    "windowsShortcut": "Ctrl W",
+    "category": "Windows",
+    "keywords": [
+      "לסגור חלון",
+      "לסגור",
+      "חלון",
+      "Close window"
+    ],
+    "descriptionHe": "סגירת חלון. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Close window. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "quit",
+    "titleHe": "סגירת אפליקציה",
+    "titleEn": "Quit app",
+    "macShortcut": "⌘ Q",
+    "windowsShortcut": "Alt F4",
+    "category": "System",
+    "keywords": [
+      "יציאה לסגור תוכנה סגור אפליקציה exit application",
+      "יציאה",
+      "לסגור",
+      "תוכנה",
+      "סגור",
+      "אפליקציה",
+      "exit",
+      "application",
+      "Quit app"
+    ],
+    "descriptionHe": "סוגר את האפליקציה כולה. ⌘ W סוגר חלון בלבד.",
+    "descriptionEn": "Quit app. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "force-quit",
+    "titleHe": "סגירה בכוח",
+    "titleEn": "Force quit",
+    "macShortcut": "⌘ ⌥ Esc",
+    "windowsShortcut": "Ctrl Shift Esc",
+    "category": "System",
+    "keywords": [
+      "אפליקציה תקועה סגירה כפויה מנהל משימות task manager frozen app",
+      "אפליקציה",
+      "תקועה",
+      "סגירה",
+      "כפויה",
+      "מנהל",
+      "משימות",
+      "task",
+      "manager",
+      "frozen",
+      "app",
+      "Force quit"
+    ],
+    "descriptionHe": "סגירה בכוח. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Force quit. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "settings",
+    "titleHe": "הגדרות האפליקציה",
+    "titleEn": "App settings",
+    "macShortcut": "⌘ ,",
+    "windowsShortcut": null,
+    "category": "System",
+    "keywords": [
+      "העדפות preferences",
+      "העדפות",
+      "preferences",
+      "App settings"
+    ],
+    "descriptionHe": "הגדרות האפליקציה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "App settings. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "bold",
+    "titleHe": "הדגשה",
+    "titleEn": "Bold",
+    "macShortcut": "⌘ B",
+    "windowsShortcut": "Ctrl B",
+    "category": "Text",
+    "keywords": [
+      "טקסט מודגש",
+      "טקסט",
+      "מודגש",
+      "Bold"
+    ],
+    "descriptionHe": "הדגשה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Bold. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "italic",
+    "titleHe": "כתב נטוי",
+    "titleEn": "Italic",
+    "macShortcut": "⌘ I",
+    "windowsShortcut": "Ctrl I",
+    "category": "Text",
+    "keywords": [
+      "הטיה",
+      "הטיה",
+      "Italic"
+    ],
+    "descriptionHe": "כתב נטוי. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Italic. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "underline",
+    "titleHe": "קו תחתון",
+    "titleEn": "Underline",
+    "macShortcut": "⌘ U",
+    "windowsShortcut": "Ctrl U",
+    "category": "Text",
+    "keywords": [
+      "קו מתחת לטקסט",
+      "קו",
+      "מתחת",
+      "לטקסט",
+      "Underline"
+    ],
+    "descriptionHe": "קו תחתון. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Underline. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "line-start",
+    "titleHe": "תחילת שורה",
+    "titleEn": "Start of line",
+    "macShortcut": "⌘ ←",
+    "windowsShortcut": "Home",
+    "category": "Navigation",
+    "keywords": [
+      "מעבר לתחילת שורה",
+      "מעבר",
+      "לתחילת",
+      "שורה",
+      "Start of line"
+    ],
+    "descriptionHe": "תחילת שורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Start of line. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "line-end",
+    "titleHe": "סוף שורה",
+    "titleEn": "End of line",
+    "macShortcut": "⌘ →",
+    "windowsShortcut": "End",
+    "category": "Navigation",
+    "keywords": [
+      "מעבר לסוף שורה",
+      "מעבר",
+      "לסוף",
+      "שורה",
+      "End of line"
+    ],
+    "descriptionHe": "סוף שורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "End of line. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "document-start",
+    "titleHe": "תחילת מסמך",
+    "titleEn": "Start of document",
+    "macShortcut": "⌘ ↑",
+    "windowsShortcut": "Ctrl Home",
+    "category": "Navigation",
+    "keywords": [
+      "ראש המסמך",
+      "ראש",
+      "המסמך",
+      "Start of document"
+    ],
+    "descriptionHe": "תחילת מסמך. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Start of document. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "document-end",
+    "titleHe": "סוף מסמך",
+    "titleEn": "End of document",
+    "macShortcut": "⌘ ↓",
+    "windowsShortcut": "Ctrl End",
+    "category": "Navigation",
+    "keywords": [
+      "תחתית המסמך",
+      "תחתית",
+      "המסמך",
+      "End of document"
+    ],
+    "descriptionHe": "סוף מסמך. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "End of document. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "word-back",
+    "titleHe": "מילה אחורה",
+    "titleEn": "Previous word",
+    "macShortcut": "⌥ ←",
+    "windowsShortcut": "Ctrl Left",
+    "category": "Navigation",
+    "keywords": [
+      "מעבר מילה שמאלה",
+      "מעבר",
+      "מילה",
+      "שמאלה",
+      "Previous word"
+    ],
+    "descriptionHe": "מילה אחורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Previous word. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "word-forward",
+    "titleHe": "מילה קדימה",
+    "titleEn": "Next word",
+    "macShortcut": "⌥ →",
+    "windowsShortcut": "Ctrl Right",
+    "category": "Navigation",
+    "keywords": [
+      "מעבר מילה ימינה",
+      "מעבר",
+      "מילה",
+      "ימינה",
+      "Next word"
+    ],
+    "descriptionHe": "מילה קדימה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Next word. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "select-word",
+    "titleHe": "סימון מילה אחורה",
+    "titleEn": "Select previous word",
+    "macShortcut": "⌥ ⇧ ←",
+    "windowsShortcut": "Ctrl Shift Left",
+    "category": "Text",
+    "keywords": [
+      "סימון מילה בחירת מילה",
+      "סימון",
+      "מילה",
+      "בחירת",
+      "מילה",
+      "Select previous word"
+    ],
+    "descriptionHe": "סימון מילה אחורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Select previous word. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "select-line",
+    "titleHe": "סימון עד סוף השורה",
+    "titleEn": "Select to end of line",
+    "macShortcut": "⌘ ⇧ →",
+    "windowsShortcut": "Shift End",
+    "category": "Text",
+    "keywords": [
+      "בחירת שורה",
+      "בחירת",
+      "שורה",
+      "Select to end of line"
+    ],
+    "descriptionHe": "סימון עד סוף השורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Select to end of line. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "delete-word",
+    "titleHe": "מחיקת מילה אחורה",
+    "titleEn": "Delete word",
+    "macShortcut": "⌥ ⌫",
+    "windowsShortcut": "Ctrl Backspace",
+    "category": "Text",
+    "keywords": [
+      "מחיקת מילה למחוק מילה שלמה erase word",
+      "מחיקת",
+      "מילה",
+      "למחוק",
+      "מילה",
+      "שלמה",
+      "erase",
+      "word",
+      "Delete word"
+    ],
+    "descriptionHe": "מחיקת מילה אחורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Delete word. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "forward-delete",
+    "titleHe": "מחיקה קדימה",
+    "titleEn": "Forward delete",
+    "macShortcut": "Fn ⌫",
+    "windowsShortcut": "Delete",
+    "category": "Text",
+    "keywords": [
+      "delete למחוק קדימה",
+      "delete",
+      "למחוק",
+      "קדימה",
+      "Forward delete"
+    ],
+    "descriptionHe": "מחיקה קדימה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Forward delete. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "line-break",
+    "titleHe": "ירידת שורה",
+    "titleEn": "Line break",
+    "macShortcut": "⇧ Enter",
+    "windowsShortcut": "Shift Enter",
+    "category": "Text",
+    "keywords": [
+      "שורה בלי פסקה חדשה",
+      "שורה",
+      "בלי",
+      "פסקה",
+      "חדשה",
+      "Line break"
+    ],
+    "descriptionHe": "ירידת שורה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Line break. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "paste-style",
+    "titleHe": "הדבקה ללא עיצוב",
+    "titleEn": "Paste and match style",
+    "macShortcut": "⌘ ⌥ ⇧ V",
+    "windowsShortcut": "Ctrl Shift V",
+    "category": "Text",
+    "keywords": [
+      "הדבק טקסט פשוט paste plain text",
+      "הדבק",
+      "טקסט",
+      "פשוט",
+      "paste",
+      "plain",
+      "text",
+      "Paste and match style"
+    ],
+    "descriptionHe": "הדבקה ללא עיצוב. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Paste and match style. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "align-left",
+    "titleHe": "יישור לשמאל",
+    "titleEn": "Align left",
+    "macShortcut": "⌘ ⇧ {",
+    "windowsShortcut": "Ctrl L",
+    "category": "Text",
+    "keywords": [
+      "יישור טקסט שמאלה",
+      "יישור",
+      "טקסט",
+      "שמאלה",
+      "Align left"
+    ],
+    "descriptionHe": "יישור לשמאל בעורכי טקסט התומכים בקיצורי macOS, למשל TextEdit. ב־Word הקיצור עשוי להיות שונה.",
+    "descriptionEn": "Align left in macOS text editors such as TextEdit. Word may use different shortcuts."
+  },
+  {
+    "id": "align-right",
+    "titleHe": "יישור לימין",
+    "titleEn": "Align right",
+    "macShortcut": "⌘ ⇧ }",
+    "windowsShortcut": "Ctrl R",
+    "category": "Text",
+    "keywords": [
+      "יישור טקסט ימינה",
+      "יישור",
+      "טקסט",
+      "ימינה",
+      "Align right"
+    ],
+    "descriptionHe": "יישור לימין בעורכי טקסט התומכים בקיצורי macOS, למשל TextEdit. ב־Word הקיצור עשוי להיות שונה.",
+    "descriptionEn": "Align right in macOS text editors such as TextEdit. Word may use different shortcuts."
+  },
+  {
+    "id": "align-center",
+    "titleHe": "יישור למרכז",
+    "titleEn": "Align center",
+    "macShortcut": "⌘ ⇧ |",
+    "windowsShortcut": "Ctrl E",
+    "category": "Text",
+    "keywords": [
+      "מירכוז טקסט",
+      "מירכוז",
+      "טקסט",
+      "Align center"
+    ],
+    "descriptionHe": "יישור למרכז בעורכי טקסט התומכים בקיצורי macOS, למשל TextEdit. ב־Word הקיצור עשוי להיות שונה.",
+    "descriptionEn": "Align center in macOS text editors such as TextEdit. Word may use different shortcuts."
+  },
+  {
+    "id": "new-tab",
+    "titleHe": "טאב חדש",
+    "titleEn": "New tab",
+    "macShortcut": "⌘ T",
+    "windowsShortcut": "Ctrl T",
+    "category": "Browser",
+    "keywords": [
+      "לשונית חדשה",
+      "לשונית",
+      "חדשה",
+      "New tab"
+    ],
+    "descriptionHe": "טאב חדש ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "New tab in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "reopen-tab",
+    "titleHe": "פתיחת טאב שנסגר",
+    "titleEn": "Reopen closed tab",
+    "macShortcut": "⌘ ⇧ T",
+    "windowsShortcut": "Ctrl Shift T",
+    "category": "Browser",
+    "keywords": [
+      "פתיחת טאב שסגרתי שחזור לשונית restore closed tab",
+      "פתיחת",
+      "טאב",
+      "שסגרתי",
+      "שחזור",
+      "לשונית",
+      "restore",
+      "closed",
+      "tab",
+      "Reopen closed tab"
+    ],
+    "descriptionHe": "פתיחת טאב שנסגר ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Reopen closed tab in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "close-tab",
+    "titleHe": "סגירת טאב",
+    "titleEn": "Close tab",
+    "macShortcut": "⌘ W",
+    "windowsShortcut": "Ctrl W",
+    "category": "Browser",
+    "keywords": [
+      "סגירת לשונית",
+      "סגירת",
+      "לשונית",
+      "Close tab"
+    ],
+    "descriptionHe": "סגירת טאב ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Close tab in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "next-tab",
+    "titleHe": "הטאב הבא",
+    "titleEn": "Next tab",
+    "macShortcut": "⌃ Tab",
+    "windowsShortcut": "Ctrl Tab",
+    "category": "Browser",
+    "keywords": [
+      "לשונית הבאה",
+      "לשונית",
+      "הבאה",
+      "Next tab"
+    ],
+    "descriptionHe": "הטאב הבא ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Next tab in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "previous-tab",
+    "titleHe": "הטאב הקודם",
+    "titleEn": "Previous tab",
+    "macShortcut": "⌃ ⇧ Tab",
+    "windowsShortcut": "Ctrl Shift Tab",
+    "category": "Browser",
+    "keywords": [
+      "לשונית קודמת",
+      "לשונית",
+      "קודמת",
+      "Previous tab"
+    ],
+    "descriptionHe": "הטאב הקודם ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Previous tab in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "address",
+    "titleHe": "שורת כתובת",
+    "titleEn": "Address bar",
+    "macShortcut": "⌘ L",
+    "windowsShortcut": "Ctrl L",
+    "category": "Browser",
+    "keywords": [
+      "כתובת אתר url",
+      "כתובת",
+      "אתר",
+      "url",
+      "Address bar"
+    ],
+    "descriptionHe": "שורת כתובת ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Address bar in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "reload",
+    "titleHe": "רענון דף",
+    "titleEn": "Reload page",
+    "macShortcut": "⌘ R",
+    "windowsShortcut": "Ctrl R",
+    "category": "Browser",
+    "keywords": [
+      "רענן refresh",
+      "רענן",
+      "refresh",
+      "Reload page"
+    ],
+    "descriptionHe": "רענון דף ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Reload page in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "zoom-in",
+    "titleHe": "הגדלה",
+    "titleEn": "Zoom in",
+    "macShortcut": "⌘ +",
+    "windowsShortcut": "Ctrl +",
+    "category": "Browser",
+    "keywords": [
+      "הגדלת דף",
+      "הגדלת",
+      "דף",
+      "Zoom in"
+    ],
+    "descriptionHe": "הגדלה ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Zoom in in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "zoom-out",
+    "titleHe": "הקטנה",
+    "titleEn": "Zoom out",
+    "macShortcut": "⌘ −",
+    "windowsShortcut": "Ctrl -",
+    "category": "Browser",
+    "keywords": [
+      "הקטנת דף",
+      "הקטנת",
+      "דף",
+      "Zoom out"
+    ],
+    "descriptionHe": "הקטנה ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Zoom out in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "zoom-reset",
+    "titleHe": "גודל מקורי",
+    "titleEn": "Reset zoom",
+    "macShortcut": "⌘ 0",
+    "windowsShortcut": "Ctrl 0",
+    "category": "Browser",
+    "keywords": [
+      "איפוס זום",
+      "איפוס",
+      "זום",
+      "Reset zoom"
+    ],
+    "descriptionHe": "גודל מקורי ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Reset zoom in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "browser-back",
+    "titleHe": "חזרה לדף הקודם",
+    "titleEn": "Back page",
+    "macShortcut": "⌘ [",
+    "windowsShortcut": "Alt Left",
+    "category": "Browser",
+    "keywords": [
+      "אחורה בדפדפן",
+      "אחורה",
+      "בדפדפן",
+      "Back page"
+    ],
+    "descriptionHe": "חזרה לדף הקודם ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Back page in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "browser-forward",
+    "titleHe": "מעבר לדף הבא",
+    "titleEn": "Forward page",
+    "macShortcut": "⌘ ]",
+    "windowsShortcut": "Alt Right",
+    "category": "Browser",
+    "keywords": [
+      "קדימה בדפדפן",
+      "קדימה",
+      "בדפדפן",
+      "Forward page"
+    ],
+    "descriptionHe": "מעבר לדף הבא ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Forward page in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "bookmark",
+    "titleHe": "שמירת סימנייה",
+    "titleEn": "Bookmark page",
+    "macShortcut": "⌘ D",
+    "windowsShortcut": "Ctrl D",
+    "category": "Browser",
+    "keywords": [
+      "מועדפים סימניות",
+      "מועדפים",
+      "סימניות",
+      "Bookmark page"
+    ],
+    "descriptionHe": "שמירת סימנייה ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Bookmark page in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "private",
+    "titleHe": "חלון גלישה פרטית",
+    "titleEn": "Private window",
+    "macShortcut": "⌘ ⇧ N",
+    "windowsShortcut": "Ctrl Shift N",
+    "category": "Browser",
+    "keywords": [
+      "גלישה בסתר incognito",
+      "גלישה",
+      "בסתר",
+      "incognito",
+      "Private window"
+    ],
+    "descriptionHe": "חלון גלישה פרטית ב־Safari ובדפדפנים נפוצים; ייתכנו הבדלים בין דפדפנים.",
+    "descriptionEn": "Private window in Safari and common browsers; browser shortcuts may differ."
+  },
+  {
+    "id": "folder",
+    "titleHe": "תיקייה חדשה",
+    "titleEn": "New folder",
+    "macShortcut": "⌘ ⇧ N",
+    "windowsShortcut": "Ctrl Shift N",
+    "category": "Finder",
+    "keywords": [
+      "יצירת תיקיה",
+      "יצירת",
+      "תיקיה",
+      "New folder"
+    ],
+    "descriptionHe": "תיקייה חדשה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "New folder. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "trash",
+    "titleHe": "העברה לפח",
+    "titleEn": "Move file to trash",
+    "macShortcut": "⌘ ⌫",
+    "windowsShortcut": "Delete",
+    "category": "Finder",
+    "keywords": [
+      "מחיקת קובץ למחוק קובץ delete file",
+      "מחיקת",
+      "קובץ",
+      "למחוק",
+      "קובץ",
+      "delete",
+      "file",
+      "Move file to trash"
+    ],
+    "descriptionHe": "העברה לפח. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Move file to trash. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "empty-trash",
+    "titleHe": "ריקון הפח",
+    "titleEn": "Empty trash",
+    "macShortcut": "⌘ ⇧ ⌫",
+    "windowsShortcut": null,
+    "category": "Finder",
+    "keywords": [
+      "לרוקן סל מחזור recycle bin",
+      "לרוקן",
+      "סל",
+      "מחזור",
+      "recycle",
+      "bin",
+      "Empty trash"
+    ],
+    "descriptionHe": "ריקון הפח. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Empty trash. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "rename",
+    "titleHe": "שינוי שם קובץ",
+    "titleEn": "Rename file",
+    "macShortcut": "Enter",
+    "windowsShortcut": "F2",
+    "category": "Finder",
+    "keywords": [
+      "שנה שם",
+      "שנה",
+      "שם",
+      "Rename file"
+    ],
+    "descriptionHe": "שינוי שם קובץ. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Rename file. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "quick-look",
+    "titleHe": "תצוגה מקדימה",
+    "titleEn": "Quick look",
+    "macShortcut": "Space",
+    "windowsShortcut": null,
+    "category": "Finder",
+    "keywords": [
+      "הצצה preview file",
+      "הצצה",
+      "preview",
+      "file",
+      "Quick look"
+    ],
+    "descriptionHe": "תצוגה מקדימה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Quick look. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "info",
+    "titleHe": "מידע על קובץ",
+    "titleEn": "File info",
+    "macShortcut": "⌘ I",
+    "windowsShortcut": "Alt Enter",
+    "category": "Finder",
+    "keywords": [
+      "מאפיינים properties",
+      "מאפיינים",
+      "properties",
+      "File info"
+    ],
+    "descriptionHe": "מידע על קובץ. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "File info. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "move-file",
+    "titleHe": "העברת קובץ שהועתק",
+    "titleEn": "Move copied file",
+    "macShortcut": "⌘ ⌥ V",
+    "windowsShortcut": "Ctrl X then Ctrl V",
+    "category": "Finder",
+    "keywords": [
+      "גזירת קובץ cut file move file",
+      "גזירת",
+      "קובץ",
+      "cut",
+      "file",
+      "move",
+      "file",
+      "Move copied file"
+    ],
+    "descriptionHe": "ב־Finder: קודם מעתיקים עם ⌘ C, ואז מעבירים עם ⌘ ⌥ V.",
+    "descriptionEn": "In Finder, copy with ⌘ C, then move with ⌘ ⌥ V."
+  },
+  {
+    "id": "folder-path",
+    "titleHe": "מעבר לתיקייה לפי נתיב",
+    "titleEn": "Go to folder",
+    "macShortcut": "⌘ ⇧ G",
+    "windowsShortcut": null,
+    "category": "Finder",
+    "keywords": [
+      "נתיב תיקיה folder path",
+      "נתיב",
+      "תיקיה",
+      "folder",
+      "path",
+      "Go to folder"
+    ],
+    "descriptionHe": "מעבר לתיקייה לפי נתיב. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Go to folder. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "hidden",
+    "titleHe": "הצגת קבצים מוסתרים",
+    "titleEn": "Show hidden files",
+    "macShortcut": "⌘ ⇧ .",
+    "windowsShortcut": null,
+    "category": "Finder",
+    "keywords": [
+      "קבצים נסתרים hidden files",
+      "קבצים",
+      "נסתרים",
+      "hidden",
+      "files",
+      "Show hidden files"
+    ],
+    "descriptionHe": "הצגת קבצים מוסתרים. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Show hidden files. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "parent",
+    "titleHe": "תיקיית אב",
+    "titleEn": "Parent folder",
+    "macShortcut": "⌘ ↑",
+    "windowsShortcut": "Alt Up",
+    "category": "Finder",
+    "keywords": [
+      "תיקיה למעלה",
+      "תיקיה",
+      "למעלה",
+      "Parent folder"
+    ],
+    "descriptionHe": "תיקיית אב. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Parent folder. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "open-selection",
+    "titleHe": "פתיחת פריט מסומן",
+    "titleEn": "Open selected item",
+    "macShortcut": "⌘ ↓",
+    "windowsShortcut": "Enter",
+    "category": "Finder",
+    "keywords": [
+      "פתח קובץ מסומן",
+      "פתח",
+      "קובץ",
+      "מסומן",
+      "Open selected item"
+    ],
+    "descriptionHe": "פתיחת פריט מסומן. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Open selected item. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "app-switch",
+    "titleHe": "מעבר בין אפליקציות",
+    "titleEn": "Switch apps",
+    "macShortcut": "⌘ Tab",
+    "windowsShortcut": "Alt Tab",
+    "category": "Windows",
+    "keywords": [
+      "מעבר בין תוכנות החלפת אפליקציות עוברים בין חלונות switch applications",
+      "מעבר",
+      "בין",
+      "תוכנות",
+      "החלפת",
+      "אפליקציות",
+      "עוברים",
+      "בין",
+      "חלונות",
+      "switch",
+      "applications",
+      "Switch apps"
+    ],
+    "descriptionHe": "מעבר בין אפליקציות. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Switch apps. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "window-switch",
+    "titleHe": "מעבר בין חלונות באותה אפליקציה",
+    "titleEn": "Switch app windows",
+    "macShortcut": "⌘ `",
+    "windowsShortcut": null,
+    "category": "Windows",
+    "keywords": [
+      "חלונות אותה תוכנה same app windows",
+      "חלונות",
+      "אותה",
+      "תוכנה",
+      "same",
+      "app",
+      "windows",
+      "Switch app windows"
+    ],
+    "descriptionHe": "מעבר בין חלונות באותה אפליקציה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Switch app windows. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "minimize",
+    "titleHe": "מזעור חלון",
+    "titleEn": "Minimize window",
+    "macShortcut": "⌘ M",
+    "windowsShortcut": "Win Down",
+    "category": "Windows",
+    "keywords": [
+      "למזער",
+      "למזער",
+      "Minimize window"
+    ],
+    "descriptionHe": "מזעור חלון. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Minimize window. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "hide",
+    "titleHe": "הסתרת אפליקציה",
+    "titleEn": "Hide app",
+    "macShortcut": "⌘ H",
+    "windowsShortcut": null,
+    "category": "Windows",
+    "keywords": [
+      "להסתיר תוכנה",
+      "להסתיר",
+      "תוכנה",
+      "Hide app"
+    ],
+    "descriptionHe": "הסתרת אפליקציה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Hide app. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "fullscreen",
+    "titleHe": "מסך מלא",
+    "titleEn": "Full screen",
+    "macShortcut": "⌃ ⌘ F",
+    "windowsShortcut": "F11",
+    "category": "Windows",
+    "keywords": [
+      "הגדלת חלון full screen",
+      "הגדלת",
+      "חלון",
+      "full",
+      "screen",
+      "Full screen"
+    ],
+    "descriptionHe": "מסך מלא. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Full screen. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "mission",
+    "titleHe": "כל החלונות",
+    "titleEn": "Mission Control",
+    "macShortcut": "⌃ ↑",
+    "windowsShortcut": "Win Tab",
+    "category": "Windows",
+    "keywords": [
+      "הצגת כל החלונות משימות",
+      "הצגת",
+      "כל",
+      "החלונות",
+      "משימות",
+      "Mission Control"
+    ],
+    "descriptionHe": "כל החלונות. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Mission Control. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "space-next",
+    "titleHe": "שולחן העבודה הבא",
+    "titleEn": "Next desktop",
+    "macShortcut": "⌃ →",
+    "windowsShortcut": "Ctrl Win Right",
+    "category": "Windows",
+    "keywords": [
+      "מעבר שולחן עבודה space",
+      "מעבר",
+      "שולחן",
+      "עבודה",
+      "space",
+      "Next desktop"
+    ],
+    "descriptionHe": "שולחן העבודה הבא. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Next desktop. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "screenshot-area",
+    "titleHe": "צילום חלק מהמסך",
+    "titleEn": "Screenshot selection",
+    "macShortcut": "⌘ ⇧ 4",
+    "windowsShortcut": "Win Shift S",
+    "category": "Screenshots",
+    "keywords": [
+      "צילום מסך חלקי מצלם חלק מהמסך capture region screenshot area",
+      "צילום",
+      "מסך",
+      "חלקי",
+      "מצלם",
+      "חלק",
+      "מהמסך",
+      "capture",
+      "region",
+      "screenshot",
+      "area",
+      "Screenshot selection"
+    ],
+    "descriptionHe": "צילום חלק מהמסך. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Screenshot selection. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "screenshot-all",
+    "titleHe": "צילום מסך מלא",
+    "titleEn": "Screenshot entire screen",
+    "macShortcut": "⌘ ⇧ 3",
+    "windowsShortcut": "Print Screen",
+    "category": "Screenshots",
+    "keywords": [
+      "צילום כל המסך screenshot full screen",
+      "צילום",
+      "כל",
+      "המסך",
+      "screenshot",
+      "full",
+      "screen",
+      "Screenshot entire screen"
+    ],
+    "descriptionHe": "צילום מסך מלא. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Screenshot entire screen. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "screenshot-window",
+    "titleHe": "צילום חלון",
+    "titleEn": "Screenshot window",
+    "macShortcut": "⌘ ⇧ 4 then Space",
+    "windowsShortcut": "Alt Print Screen",
+    "category": "Screenshots",
+    "keywords": [
+      "צילום חלון בודד",
+      "צילום",
+      "חלון",
+      "בודד",
+      "Screenshot window"
+    ],
+    "descriptionHe": "צילום חלון. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Screenshot window. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "record",
+    "titleHe": "הקלטת מסך וצילום",
+    "titleEn": "Screenshot toolbar",
+    "macShortcut": "⌘ ⇧ 5",
+    "windowsShortcut": null,
+    "category": "Screenshots",
+    "keywords": [
+      "וידאו מסך screen recording",
+      "וידאו",
+      "מסך",
+      "screen",
+      "recording",
+      "Screenshot toolbar"
+    ],
+    "descriptionHe": "הקלטת מסך וצילום. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Screenshot toolbar. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "language",
+    "titleHe": "החלפת שפת הקלדה",
+    "titleEn": "Switch input language",
+    "macShortcut": "⌃ Space",
+    "windowsShortcut": "Win Space",
+    "category": "Language",
+    "keywords": [
+      "עברית לאנגלית אנגלית לעברית החלפת שפה שינוי שפה keyboard language",
+      "עברית",
+      "לאנגלית",
+      "אנגלית",
+      "לעברית",
+      "החלפת",
+      "שפה",
+      "שינוי",
+      "שפה",
+      "keyboard",
+      "language",
+      "Switch input language"
+    ],
+    "descriptionHe": "בחירת מקור הקלט הקודם. ניתן לשנות בהגדרות המקלדת; בחלק מהמחשבים מקש הגלובוס מחליף שפה.",
+    "descriptionEn": "Switch input language. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "emoji",
+    "titleHe": "אימוג׳י וסמלים",
+    "titleEn": "Emoji and symbols",
+    "macShortcut": "⌃ ⌘ Space",
+    "windowsShortcut": "Win .",
+    "category": "Language",
+    "keywords": [
+      "סמיילי emoji picker",
+      "סמיילי",
+      "emoji",
+      "picker",
+      "Emoji and symbols"
+    ],
+    "descriptionHe": "אימוג׳י וסמלים. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Emoji and symbols. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "spotlight",
+    "titleHe": "חיפוש במחשב",
+    "titleEn": "Spotlight search",
+    "macShortcut": "⌘ Space",
+    "windowsShortcut": "Win S",
+    "category": "System",
+    "keywords": [
+      "חיפוש קבצים אפליקציות",
+      "חיפוש",
+      "קבצים",
+      "אפליקציות",
+      "Spotlight search"
+    ],
+    "descriptionHe": "חיפוש במחשב. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Spotlight search. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "lock",
+    "titleHe": "נעילת מסך",
+    "titleEn": "Lock screen",
+    "macShortcut": "⌃ ⌘ Q",
+    "windowsShortcut": "Win L",
+    "category": "System",
+    "keywords": [
+      "לנעול מחשב",
+      "לנעול",
+      "מחשב",
+      "Lock screen"
+    ],
+    "descriptionHe": "נעילת מסך. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Lock screen. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "page-up",
+    "titleHe": "עמוד למעלה",
+    "titleEn": "Page up",
+    "macShortcut": "Fn ↑",
+    "windowsShortcut": "Page Up",
+    "category": "Navigation",
+    "keywords": [
+      "גלילה למעלה",
+      "גלילה",
+      "למעלה",
+      "Page up"
+    ],
+    "descriptionHe": "עמוד למעלה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Page up. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "page-down",
+    "titleHe": "עמוד למטה",
+    "titleEn": "Page down",
+    "macShortcut": "Fn ↓",
+    "windowsShortcut": "Page Down",
+    "category": "Navigation",
+    "keywords": [
+      "גלילה למטה",
+      "גלילה",
+      "למטה",
+      "Page down"
+    ],
+    "descriptionHe": "עמוד למטה. הקיצור תלוי בתמיכת האפליקציה ובהגדרות המקלדת.",
+    "descriptionEn": "Page down. Availability depends on the app and keyboard settings."
+  },
+  {
+    "id": "paragraph-rtl",
+    "titleHe": "כיוון פסקה לימין לשמאל",
+    "titleEn": "Paragraph direction: right to left",
+    "macShortcut": "⌃ ⌘ ←",
+    "windowsShortcut": "Ctrl Right Shift",
+    "category": "Text",
+    "keywords": [
+      "כיוון פסקה עברית ימין לשמאל rtl",
+      "יישור עברית",
+      "paragraph direction right to left",
+      "rtl"
+    ],
+    "descriptionHe": "משנה את כיוון הפסקה לימין לשמאל בעורכי טקסט התומכים בקיצור. באפליקציות מסוימות הקיצור עשוי להשתנות.",
+    "descriptionEn": "Sets paragraph direction to right-to-left in supporting text editors. The shortcut can vary by app."
+  },
+  {
+    "id": "paragraph-ltr",
+    "titleHe": "כיוון פסקה לשמאל לימין",
+    "titleEn": "Paragraph direction: left to right",
+    "macShortcut": "⌃ ⌘ →",
+    "windowsShortcut": "Ctrl Left Shift",
+    "category": "Text",
+    "keywords": [
+      "כיוון פסקה אנגלית שמאל לימין ltr",
+      "יישור אנגלית",
+      "paragraph direction left to right",
+      "ltr"
+    ],
+    "descriptionHe": "משנה את כיוון הפסקה לשמאל לימין בעורכי טקסט התומכים בקיצור. באפליקציות מסוימות הקיצור עשוי להשתנות.",
+    "descriptionEn": "Sets paragraph direction to left-to-right in supporting text editors. The shortcut can vary by app."
+  },
+  {
+    "id": "app-windows",
+    "titleHe": "כל חלונות האפליקציה הנוכחית",
+    "titleEn": "Current app windows",
+    "macShortcut": "⌃ ↓",
+    "windowsShortcut": "Win Tab",
+    "category": "Windows",
+    "keywords": [
+      "חלונות אפליקציה נוכחית mission control למטה",
+      "הצגת חלונות של האפליקציה",
+      "current app windows mission control"
+    ],
+    "descriptionHe": "מציג את כל החלונות של האפליקציה הפעילה ב־Mission Control.",
+    "descriptionEn": "Shows all windows of the active app in Mission Control."
+  }
+]
